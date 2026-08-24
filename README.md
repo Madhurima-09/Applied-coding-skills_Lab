@@ -4,9 +4,26 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Madhurima-09/Applied-coding-skills_Lab/tree/master/0023-merge-k-sorted-lists) |
 | [0025-reverse-nodes-in-k-group](https://github.com/Madhurima-09/Applied-coding-skills_Lab/tree/master/0025-reverse-nodes-in-k-group) |
 ## Recursion
 |  |
 | ------- |
 | [0025-reverse-nodes-in-k-group](https://github.com/Madhurima-09/Applied-coding-skills_Lab/tree/master/0025-reverse-nodes-in-k-group) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Madhurima-09/Applied-coding-skills_Lab/tree/master/0023-merge-k-sorted-lists) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Madhurima-09/Applied-coding-skills_Lab/tree/master/0023-merge-k-sorted-lists) |
+## Merge Sort
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Madhurima-09/Applied-coding-skills_Lab/tree/master/0023-merge-k-sorted-lists) |
+## Tournament Sort
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Madhurima-09/Applied-coding-skills_Lab/tree/master/0023-merge-k-sorted-lists) |
 <!---LeetCode Topics End-->

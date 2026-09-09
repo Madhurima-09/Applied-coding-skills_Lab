@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/Madhurima-09/Applied-coding-skills_Lab/tree/master/0239-sliding-window-maximum) |
 | [0867-transpose-matrix](https://github.com/Madhurima-09/Applied-coding-skills_Lab/tree/master/0867-transpose-matrix) |
 | [0977-squares-of-a-sorted-array](https://github.com/Madhurima-09/Applied-coding-skills_Lab/tree/master/0977-squares-of-a-sorted-array) |
+| [1314-matrix-block-sum](https://github.com/Madhurima-09/Applied-coding-skills_Lab/tree/master/1314-matrix-block-sum) |
 | [1480-running-sum-of-1d-array](https://github.com/Madhurima-09/Applied-coding-skills_Lab/tree/master/1480-running-sum-of-1d-array) |
 ## Two Pointers
 |  |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [1314-matrix-block-sum](https://github.com/Madhurima-09/Applied-coding-skills_Lab/tree/master/1314-matrix-block-sum) |
 | [1480-running-sum-of-1d-array](https://github.com/Madhurima-09/Applied-coding-skills_Lab/tree/master/1480-running-sum-of-1d-array) |
 ## Queue
 |  |
@@ -72,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0867-transpose-matrix](https://github.com/Madhurima-09/Applied-coding-skills_Lab/tree/master/0867-transpose-matrix) |
+| [1314-matrix-block-sum](https://github.com/Madhurima-09/Applied-coding-skills_Lab/tree/master/1314-matrix-block-sum) |
 ## Simulation
 |  |
 | ------- |

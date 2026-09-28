@@ -1,34 +1,40 @@
-import java.util.*;
+import java.util.Deque;
+import java.util.LinkedList;
 
 class Solution {
     public int[] maxSlidingWindow(int[] nums, int k) {
+        if (nums == null || k <= 0) {
+            return new int[0];
+        }
+        
         int n = nums.length;
         int[] result = new int[n - k + 1];
-
-        Deque<Integer> deque = new ArrayDeque<>();
-        int index = 0;
-
+        int resultIndex = 0;
+        
+        // Deque to store indices of elements in the current window
+        Deque<Integer> deque = new LinkedList<>();
+        
         for (int i = 0; i < n; i++) {
-
-            // Remove elements outside the current window
-            while (!deque.isEmpty() && deque.peekFirst() <= i - k) {
+            // 1. Remove indices that are out of the current sliding window (i - k)
+            if (!deque.isEmpty() && deque.peekFirst() < i - k + 1) {
                 deque.pollFirst();
             }
-
-            // Remove elements smaller than current element
-            while (!deque.isEmpty() && nums[deque.peekLast()] <= nums[i]) {
+            
+            // 2. Remove elements from the back of the deque that are smaller than the current element
+            // (They can never be the maximum since the current element is larger and enters later)
+            while (!deque.isEmpty() && nums[deque.peekLast()] < nums[i]) {
                 deque.pollLast();
             }
-
-            // Add current index
+            
+            // 3. Add the current element's index to the back of the deque
             deque.offerLast(i);
-
-            // Start recording answers once window size reaches k
+            
+            // 4. The front of the deque is the maximum for the window starting at (i - k + 1)
             if (i >= k - 1) {
-                result[index++] = nums[deque.peekFirst()];
+                result[resultIndex++] = nums[deque.peekFirst()];
             }
         }
-
+        
         return result;
     }
 }

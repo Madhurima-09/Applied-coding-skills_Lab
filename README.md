@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/Madhurima-09/Applied-coding-skills_Lab/tree/master/0219-contains-duplicate-ii) |
 | [0239-sliding-window-maximum](https://github.com/Madhurima-09/Applied-coding-skills_Lab/tree/master/0239-sliding-window-maximum) |
+| [0704-binary-search](https://github.com/Madhurima-09/Applied-coding-skills_Lab/tree/master/0704-binary-search) |
 | [0867-transpose-matrix](https://github.com/Madhurima-09/Applied-coding-skills_Lab/tree/master/0867-transpose-matrix) |
 | [0977-squares-of-a-sorted-array](https://github.com/Madhurima-09/Applied-coding-skills_Lab/tree/master/0977-squares-of-a-sorted-array) |
 | [1314-matrix-block-sum](https://github.com/Madhurima-09/Applied-coding-skills_Lab/tree/master/1314-matrix-block-sum) |
@@ -85,4 +86,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/Madhurima-09/Applied-coding-skills_Lab/tree/master/1685-sum-of-absolute-differences-in-a-sorted-array) |
+## Binary Search
+|  |
+| ------- |
+| [0704-binary-search](https://github.com/Madhurima-09/Applied-coding-skills_Lab/tree/master/0704-binary-search) |
 <!---LeetCode Topics End-->

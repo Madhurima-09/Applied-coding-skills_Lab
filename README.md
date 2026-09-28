@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/Madhurima-09/Applied-coding-skills_Lab/tree/master/0075-sort-colors) |
 | [0219-contains-duplicate-ii](https://github.com/Madhurima-09/Applied-coding-skills_Lab/tree/master/0219-contains-duplicate-ii) |
 | [0239-sliding-window-maximum](https://github.com/Madhurima-09/Applied-coding-skills_Lab/tree/master/0239-sliding-window-maximum) |
 | [0704-binary-search](https://github.com/Madhurima-09/Applied-coding-skills_Lab/tree/master/0704-binary-search) |
@@ -41,10 +42,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/Madhurima-09/Applied-coding-skills_Lab/tree/master/0075-sort-colors) |
 | [0977-squares-of-a-sorted-array](https://github.com/Madhurima-09/Applied-coding-skills_Lab/tree/master/0977-squares-of-a-sorted-array) |
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/Madhurima-09/Applied-coding-skills_Lab/tree/master/0075-sort-colors) |
 | [0977-squares-of-a-sorted-array](https://github.com/Madhurima-09/Applied-coding-skills_Lab/tree/master/0977-squares-of-a-sorted-array) |
 ## Hash Table
 |  |
@@ -90,4 +93,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0704-binary-search](https://github.com/Madhurima-09/Applied-coding-skills_Lab/tree/master/0704-binary-search) |
+## Quicksort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/Madhurima-09/Applied-coding-skills_Lab/tree/master/0075-sort-colors) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/Madhurima-09/Applied-coding-skills_Lab/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->

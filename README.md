@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Madhurima-09/Applied-coding-skills_Lab/tree/master/0023-merge-k-sorted-lists) |
 | [0025-reverse-nodes-in-k-group](https://github.com/Madhurima-09/Applied-coding-skills_Lab/tree/master/0025-reverse-nodes-in-k-group) |
+| [0876-middle-of-the-linked-list](https://github.com/Madhurima-09/Applied-coding-skills_Lab/tree/master/0876-middle-of-the-linked-list) |
 ## Recursion
 |  |
 | ------- |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/Madhurima-09/Applied-coding-skills_Lab/tree/master/0075-sort-colors) |
 | [0283-move-zeroes](https://github.com/Madhurima-09/Applied-coding-skills_Lab/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/Madhurima-09/Applied-coding-skills_Lab/tree/master/0344-reverse-string) |
+| [0876-middle-of-the-linked-list](https://github.com/Madhurima-09/Applied-coding-skills_Lab/tree/master/0876-middle-of-the-linked-list) |
 | [0977-squares-of-a-sorted-array](https://github.com/Madhurima-09/Applied-coding-skills_Lab/tree/master/0977-squares-of-a-sorted-array) |
 ## Sorting
 |  |

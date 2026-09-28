@@ -6,11 +6,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Madhurima-09/Applied-coding-skills_Lab/tree/master/0023-merge-k-sorted-lists) |
 | [0025-reverse-nodes-in-k-group](https://github.com/Madhurima-09/Applied-coding-skills_Lab/tree/master/0025-reverse-nodes-in-k-group) |
+| [0234-palindrome-linked-list](https://github.com/Madhurima-09/Applied-coding-skills_Lab/tree/master/0234-palindrome-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/Madhurima-09/Applied-coding-skills_Lab/tree/master/0876-middle-of-the-linked-list) |
 ## Recursion
 |  |
 | ------- |
 | [0025-reverse-nodes-in-k-group](https://github.com/Madhurima-09/Applied-coding-skills_Lab/tree/master/0025-reverse-nodes-in-k-group) |
+| [0234-palindrome-linked-list](https://github.com/Madhurima-09/Applied-coding-skills_Lab/tree/master/0234-palindrome-linked-list) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -46,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/Madhurima-09/Applied-coding-skills_Lab/tree/master/0075-sort-colors) |
+| [0234-palindrome-linked-list](https://github.com/Madhurima-09/Applied-coding-skills_Lab/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/Madhurima-09/Applied-coding-skills_Lab/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/Madhurima-09/Applied-coding-skills_Lab/tree/master/0344-reverse-string) |
 | [0876-middle-of-the-linked-list](https://github.com/Madhurima-09/Applied-coding-skills_Lab/tree/master/0876-middle-of-the-linked-list) |
@@ -122,4 +125,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/Madhurima-09/Applied-coding-skills_Lab/tree/master/0387-first-unique-character-in-a-string) |
+## Stack
+|  |
+| ------- |
+| [0234-palindrome-linked-list](https://github.com/Madhurima-09/Applied-coding-skills_Lab/tree/master/0234-palindrome-linked-list) |
 <!---LeetCode Topics End-->
